@@ -1,0 +1,29 @@
+html, body {
+	height: 100%;
+	margin: 0;
+	padding: 0;	
+}
+
+html	{font-size: 5vw;} 
+body	{font-size: 1rem; } 
+h1  	{font-size: 4rem; } 
+h2		{font-size: 2.5rem;}
+h3   	{font-size: 2rem; } 
+
+h1, h3{
+	padding: 0;
+	margin: 0;
+	font-family: 'Bevan';	
+	font-weight: 400; 
+	text-align: center;
+}
+
+input[type=button] {
+    padding:5px 15px; 
+    background:#ccc; 
+    border:0 none;
+    cursor:pointer;
+    -webkit-border-radius: 5px;
+    border-radius: 5px; 
+    font-size: 2rem;
+}
