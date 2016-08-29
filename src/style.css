@@ -25,9 +25,8 @@ h1, h3{
 
 input[type=button] {
     display: block;
-    width 40%;
-   padding: 30px;
-    background:#ccc; 
+    width 50%;
+    background:#cfcfcf; 
     border:0 none;
     cursor:pointer;
     -webkit-border-radius: 5px;
