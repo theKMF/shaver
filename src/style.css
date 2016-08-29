@@ -24,7 +24,9 @@ h1, h3{
 }
 
 input[type=button] {
-    padding:5px 15px; 
+    display: block;
+    width 40%;
+    padding-left: 30%;
     background:#ccc; 
     border:0 none;
     cursor:pointer;
