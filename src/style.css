@@ -7,7 +7,7 @@ html, body {
 html	{font-size: 5vw;} 
 body	{font-size: 1rem; 
 
-    padding-top: 200px;
+    padding-top: 40%;
         
 } 
 h1  	{font-size: 4rem; } 
@@ -20,6 +20,7 @@ h1, h3{
 	font-family: 'Bevan';	
 	font-weight: 400; 
 	text-align: center;
+    align-self: center;
 }
 
 input[type=button] {
