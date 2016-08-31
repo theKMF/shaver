@@ -1,4 +1,4 @@
-#Let's recreate the first wave smart phone novelty app, except as Webb Apps
+#Let's recreate the first wave of smart phone novelty apps, except as Webb Apps
 
 Back in the way back when, before the turn of the millenium even, I started teching myself how to code. I used a now exstinct language called Lingo in the Macromedia made Director IDE. After some inital stumblings in random crap I started recreating old arcade classicss. PONG, Astroids and Break Out. 
 
