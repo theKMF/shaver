@@ -9,7 +9,9 @@ Now I want to learn more about PWAs so I decided to take a similar route and mak
 ##Why on earth would you do such a thing?
 Simple really, the first batch of apps all focuse on showing off the new features that phones enabled with their sensor array and multi touch input. They are also small well defined cases so should be OK:
 
-THis is the first one, the app that turns your phone into a shaver. 
+This is the first one, the app that turns your phone into a shaver. 
+
+[TRY THE DEMO](https://thekmf.github.io/shaver/) on your phone obviously
 
 * Better design
 * Off-line
