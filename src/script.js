@@ -1,11 +1,11 @@
 var audio = new Audio('src/sfx.mp3');
+if(navigator.serviceWorker){
+    navigator.serviceWorker.register('src/sw.js');
+}
 
 
 DomReady.ready(function () {
-    if(navigator.serviceWorker){
-        navigator.serviceWorker.register('src/sw.js');
-    }
-
+   
     shaverBtn.addEventListener('touchstart', function(e){
        beginShave();
 	}, false);
