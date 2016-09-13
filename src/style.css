@@ -8,7 +8,7 @@ html	{font-size: 5vw;}
 body	{font-size: 1rem; 
 
     padding-top: 40%;
-        padding-left: 30%;
+    padding-left: 30%;
 } 
 h1  	{font-size: 4rem; } 
 h2		{font-size: 2.5rem;}
@@ -24,8 +24,8 @@ h1, h3{
 }
 
 input[type=button] {
-    display: block;
-    width 50%;
+    
+    width: 40%;
     background:#cfcfcf; 
     border:0 none;
     cursor:pointer;
