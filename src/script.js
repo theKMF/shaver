@@ -3,7 +3,7 @@ var audio = new Audio('src/sfx.mp3');
 
 DomReady.ready(function () {
     if(navigator.serviceWorker){
-        navigator.register('src/sw.js');
+        navigator.serviceWorker.register('src/sw.js');
     }
 
     shaverBtn.addEventListener('touchstart', function(e){
