@@ -1,6 +1,6 @@
 var audio = new Audio('src/sfx.mp3');
 if(navigator.serviceWorker){
-    navigator.serviceWorker.register('src/sw.js');
+    navigator.serviceWorker.register('/sw.js');
 }
 
 
