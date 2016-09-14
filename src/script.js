@@ -6,7 +6,7 @@ DomReady.ready(function () {
     
     if ('serviceWorker' in navigator) {
             console.log('navigator available');
-            navigator.serviceWorker.register('sw.js').then(function(reg) {
+            navigator.serviceWorker.register('/sw.js').then(function(reg) {
             console.log('ServiceWorker registration successful with scope: ', reg.scope);
         }).catch(function(err) {
             console.log('ServiceWorker registration failed: ', err);
