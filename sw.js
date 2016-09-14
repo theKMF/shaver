@@ -1,5 +1,3 @@
-self.addEventListener('fetch', function(event){ 
-
-   console.log('OMG SW is here');
-
+self.addEventListener('install', function(event) {
+    console.log(‘Service Worker Installing’);
 });
